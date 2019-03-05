@@ -1,0 +1,5 @@
+- Concerned with the assignment of responsabilities between objects and how they communicate
+- Deals with the responsabilities of objects
+- Help objects cooperate
+- Assign clear hierarchy
+- Can encapsulate requests

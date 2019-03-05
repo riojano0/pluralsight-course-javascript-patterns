@@ -1,0 +1,4 @@
+- More complete inheritance
+- Wraps an objet
+- Protects existing objects
+- Allows extended functionality

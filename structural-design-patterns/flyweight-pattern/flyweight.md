@@ -1,0 +1,6 @@
+- Conserves memory by sharing portions of an object between objects
+- Our tasks had a lots of non unique data
+- Flyweight shares data across objects
+- Results in a smaller memory footprint
+- But only if you have a large numbers of objects
+- ONLY USE WHEN IS REALLY NEEDED

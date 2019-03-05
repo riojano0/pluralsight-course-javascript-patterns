@@ -1,0 +1,3 @@
+- Simplifies object creation
+- Creating different object based on need
+- Repository Creation

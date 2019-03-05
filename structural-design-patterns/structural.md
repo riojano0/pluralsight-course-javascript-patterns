@@ -1,0 +1,3 @@
+- Deal With the relationship of objects
+- Extend functionality
+- Simplify functionality
